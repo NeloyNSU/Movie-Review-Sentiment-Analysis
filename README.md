@@ -22,3 +22,17 @@ Submissions are evaluated on classification accuracy (the percent of labels that
 4 - positive
 
 ```
+
+## Submission
+Submission Format
+For each phrase in the test set, predict a label for the sentiment. Your submission should have a header and look like the following:
+```
+
+PhraseId,Sentiment
+156061,2
+156062,2
+156063,2
+...
+```
+
+Dataset
