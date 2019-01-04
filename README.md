@@ -1,10 +1,10 @@
 ## Movie-Review-Sentiment-Analysis
 
-```
+
 ## [Kernel Link](https://www.kaggle.com/c/movie-review-sentiment-analysis-kernels-only)
 ## [My Kernel](https://www.kaggle.com/aaneloy/movie-review-sentiment-analysis)
 
-```
+
 
 ## Description
 "There's a thin line between likably old-fashioned and fuddy-duddy, and The Count of Monte Cristo ... never quite settles on either side."
